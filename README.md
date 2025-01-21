@@ -1,6 +1,5 @@
 <h1 align="center" id="title">BurgerBomb</h1>
 
-<p align="center"><img src="https://socialify.git.ci/gihani571/MosBurgers/image?font=Rokkitt&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Floating+Cogs&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
 
 <p id="description">BURGER BOMB website is a modern responsive platform designed for effective store order and customer management. Developed using HTML CSS JavaScript and the Bootstrap framework the website offers a seamless user experience with a clean professional UI.</p>
 
